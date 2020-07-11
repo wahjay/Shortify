@@ -1,6 +1,6 @@
 # Shortify
 
-A React Native app that simulates parts of the Spotify mobile app. 
+My React Native app that simulates parts of the Spotify mobile app. 
 
 ### Player UI.
 

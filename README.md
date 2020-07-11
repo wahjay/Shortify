@@ -2,4 +2,4 @@
 
 A React Native app that simulates parts of the Spotify mobile app. 
 
-![](./img/trip.png?raw=true)
+<img src="./img/player.png" width="300" height="600" />

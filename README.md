@@ -20,3 +20,9 @@ Songs that aren't available to play as a preview will be makred with a small red
 Click the songs returned from the search results will play the song in the background for 30s as a preview.
 
 <img src="./img/demo.gif" width="300" height="600" />
+
+
+### Run on your Machine
+
+You need `react-native` and xcode to build the app on your local machine.
+Once you have `react-native` and xcode installed, you can run `npm install` and then `react-native run-ios` or `react-native android` (I built this app for ios, so some parts may not work properly on android)

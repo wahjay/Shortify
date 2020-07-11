@@ -17,6 +17,6 @@ Songs that aren't available to play as a preview will be makred with a small red
 
 
 ### Demo
-Click the songs returned from the search results will play the song for 30s as a preview.
+Click the songs returned from the search results will play the song in the background for 30s as a preview.
 
 <img src="./img/demo.gif" width="300" height="600" />

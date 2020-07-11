@@ -6,6 +6,8 @@ A React Native app that simulates parts of the Spotify mobile app.
 <img src="./img/player1.png" width="300" height="600" />
 
 ### Search UI.
+Songs that aren't available to play as a preview will be makred with a small red icon on its right end side.
+
 <img src="./img/search.png" width="300" height="600" />
 
 

@@ -29,4 +29,4 @@ Click the songs returned from the search results will play the song in the backg
 
 You need `react-native` and xcode to build the app on your local machine.
 Once you have `react-native` and xcode installed, you can run `npm install` and then `react-native run-ios` or `react-native android` (I built this app for ios, so some parts may not work properly on android) 
-<b>Note:</b> You need your `client id` and `secrent` in `App.js`. 
+<b>Note:</b> You need your `client id` and `secret` in `App.js`. 
